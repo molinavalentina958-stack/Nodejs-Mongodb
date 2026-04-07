@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69d593a896214ddda332b223"
+  },
+  "nombre": "Camiseta blanca",
+  "descripcion": "Camiseta oversize",
+  "precio": 30000,
+  "talla": "M",
+  "color": "Blanco",
+  "stock": 15,
+  "categoria": "camiseta",
+  "disponible": true,
+  "createdAt": {
+    "$date": "2026-04-07T23:30:48.190Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T23:33:29.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d593d196214ddda332b226"
+  },
+  "nombre": "Camiseta blanca",
+  "descripcion": "Camiseta básica",
+  "precio": 30000,
+  "talla": "M",
+  "color": "Blanco",
+  "stock": 15,
+  "categoria": "camiseta",
+  "disponible": true,
+  "createdAt": {
+    "$date": "2026-04-07T23:31:29.221Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T23:31:29.221Z"
+  },
+  "__v": 0
+}]
